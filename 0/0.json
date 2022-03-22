@@ -1,0 +1,10 @@
+{
+    "name": "Object 1",
+    "otherValidNames": [
+        "Object1"
+    ],
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Logan_Rock_Treen_closeup.jpg/1200px-Logan_Rock_Treen_closeup.jpg",
+        "https://imageio.forbes.com/specials-images/imageserve/dv424076/0x0.jpg?format=jpg&width=1200&fit=bounds"
+    ]
+}

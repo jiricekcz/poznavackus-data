@@ -1,0 +1,10 @@
+{
+    "collections": [
+        { 
+            "name": "Testing collection", 
+            "id": 0,
+            "path": "./0/",
+            "mainFile": "./0/index.json"
+        }
+    ]
+}
