@@ -1,5 +1,12 @@
 {
-    "name": "Křižák pruhovaný", 
-    "otherValidNames": ["Krizak pruhovany"], 
-    "images":["https://ziva.avcr.cz/img/ziva/art2/lrg/krizak-pruhovany-invazni-nebo-expanzivni-druh-1.jpg", "https://ukocouradoma.cz/wp-content/uploads/2020/08/krizak-pruhovany.jpg", "https://www.biolib.cz/IMG/GAL/2777.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvRO_7nbFkfy77JHYxXWt8yya8I68x878BrQ&usqp=CAU"]
+    "name": "Křižák pruhovaný",
+    "otherValidNames": [
+        "Krizak pruhovany"
+    ],
+    "images": [
+        "https://ziva.avcr.cz/img/ziva/art2/lrg/krizak-pruhovany-invazni-nebo-expanzivni-druh-1.jpg",
+        "https://ukocouradoma.cz/wp-content/uploads/2020/08/krizak-pruhovany.jpg",
+        "https://www.biolib.cz/IMG/GAL/2777.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvRO_7nbFkfy77JHYxXWt8yya8I68x878BrQ&usqp=CAU"
+    ]
 }

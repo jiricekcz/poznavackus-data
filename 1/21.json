@@ -1,5 +1,12 @@
 {
-    "name": "Pokoutník domácí", 
-    "otherValidNames": ["Pokoutnik domaci"], 
-    "images":["https://upload.wikimedia.org/wikipedia/commons/b/bd/Winkelpinne.jpg", "https://www.prirodovedci.cz/storage/images/800x600/7501.png", "https://img.obrazky.cz/?url=8d9af49d31ffb646&size=2", "https://cdn.myshoptet.com/usr/www.pasti.cz/user/documents/upload/pokoutnik.jpg"]
+    "name": "Pokoutník domácí",
+    "otherValidNames": [
+        "Pokoutnik domaci"
+    ],
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/bd/Winkelpinne.jpg",
+        "https://www.prirodovedci.cz/storage/images/800x600/7501.png",
+        "https://img.obrazky.cz/?url=8d9af49d31ffb646&size=2",
+        "https://cdn.myshoptet.com/usr/www.pasti.cz/user/documents/upload/pokoutnik.jpg"
+    ]
 }

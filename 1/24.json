@@ -1,5 +1,11 @@
 {
-    "name": "Běžník květomilný", 
-    "otherValidNames": ["Běžník květomilný"], 
-    "images":["http://www.naturabohemica.cz/images/thumb/Misumena_vatia_7641.jpg", "http://fotoblog.in/galerie/albums/pavoukovci-arachnoidea/91440.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Misumena.vatia.beute.wespe.1771.jpg/1200px-Misumena.vatia.beute.wespe.1771.jpg"]
+    "name": "Běžník květomilný",
+    "otherValidNames": [
+        "Běžník květomilný"
+    ],
+    "images": [
+        "http://www.naturabohemica.cz/images/thumb/Misumena_vatia_7641.jpg",
+        "http://fotoblog.in/galerie/albums/pavoukovci-arachnoidea/91440.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Misumena.vatia.beute.wespe.1771.jpg/1200px-Misumena.vatia.beute.wespe.1771.jpg"
+    ]
 }
