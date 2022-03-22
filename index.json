@@ -2,6 +2,7 @@
     "collections": [
         { 
             "name": "Testing collection", 
+            "description": "Testing collection description",
             "id": 0,
             "path": "./0/",
             "mainFile": "./0/index.json"
