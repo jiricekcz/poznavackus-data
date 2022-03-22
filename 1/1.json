@@ -1,5 +1,11 @@
 {
-    "name": "Nezmar zelený", 
-    "otherValidNames": ["Nezmar zeleny"], 
-    "images":["https://rybicky.net/obr/plzi/max/1053.jpg", "https://www.biolib.cz/IMG/GAL/BIG/272220.jpg", "https://img.obrazky.cz/?url=9adcc2a86be71525&size=2"]
+    "name": "Nezmar zelený",
+    "otherValidNames": [
+        "Nezmar zeleny"
+    ],
+    "images": [
+        "https://rybicky.net/obr/plzi/max/1053.jpg",
+        "https://www.biolib.cz/IMG/GAL/BIG/272220.jpg",
+        "https://img.obrazky.cz/?url=9adcc2a86be71525&size=2"
+    ]
 }
