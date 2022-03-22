@@ -1,5 +1,11 @@
 {
-    "name": "Medúzka sladkovodní", 
-    "otherValidNames": ["Meduzka sladkovodni"], 
-    "images":["https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Craspedacusta_sowerbyi_by_OpenCage.jpg/270px-Craspedacusta_sowerbyi_by_OpenCage.jpg", "https://1gr.cz/fotky/idnes/09/102/gal/BMA2e6562_ALAMY_A4MMCN.jpg", "https://www.biolib.cz/IMG/GAL/BIG/281111.jpg"]
+    "name": "Medúzka sladkovodní",
+    "otherValidNames": [
+        "Meduzka sladkovodni"
+    ],
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Craspedacusta_sowerbyi_by_OpenCage.jpg/270px-Craspedacusta_sowerbyi_by_OpenCage.jpg",
+        "https://1gr.cz/fotky/idnes/09/102/gal/BMA2e6562_ALAMY_A4MMCN.jpg",
+        "https://www.biolib.cz/IMG/GAL/BIG/281111.jpg"
+    ]
 }

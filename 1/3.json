@@ -1,5 +1,12 @@
 {
-    "name": "Talířovka ušatá", 
-    "otherValidNames": ["Talirovka usata"], 
-    "images":["https://c3.primacdn.cz/sites/default/files/styles/landscape_extra_large/public/d/12/5194888-talirovka_usata.jpg?itok=R3W0Sl4D&c=def_cloudinary", "https://www.biolib.cz/IMG/GAL/87093.jpg", "https://ct24.ceskatelevize.cz/sites/default/files/styles/scale_1180/public/images/1960114-aurelia_aurita_2.jpg?itok=RFy2tf2N", "https://sites.google.com/site/atlaszvirat/_/rsrc/1472860256094/home/bezobratli/zahavci/meduzy/60166.jpg?height=231&width=320"]
+    "name": "Talířovka ušatá",
+    "otherValidNames": [
+        "Talirovka usata"
+    ],
+    "images": [
+        "https://c3.primacdn.cz/sites/default/files/styles/landscape_extra_large/public/d/12/5194888-talirovka_usata.jpg?itok=R3W0Sl4D&c=def_cloudinary",
+        "https://www.biolib.cz/IMG/GAL/87093.jpg",
+        "https://ct24.ceskatelevize.cz/sites/default/files/styles/scale_1180/public/images/1960114-aurelia_aurita_2.jpg?itok=RFy2tf2N",
+        "https://sites.google.com/site/atlaszvirat/_/rsrc/1472860256094/home/bezobratli/zahavci/meduzy/60166.jpg?height=231&width=320"
+    ]
 }
