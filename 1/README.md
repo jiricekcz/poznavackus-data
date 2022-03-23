@@ -6,4 +6,3 @@ Obrázky jsou udělaný podle popisků v prezentaci na classroomu, t.j. Kopretin
 
 # Chyby
 ## Http not permited
-https://github.com/jiricekcz/poznavackus-data/blob/main//1/25.json
