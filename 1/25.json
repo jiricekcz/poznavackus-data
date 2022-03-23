@@ -1,6 +1,8 @@
 {
     "name": "Skákavka (královská)", 
     "otherValidNames": ["Skákavka", "Skakavka", "Skákavka královská", "Skakavka kralovska"], 
-    "images": [""
+    "images": ["https://c3.primacdn.cz/sites/default/files/7b7522bc/3825433-skakavka.jpg",
+        "https://www.biolib.cz/IMG/GAL/224227.jpg",
+        "https://cdn.megapixel.cz/gallery/w1380h900/4/75144.jpg?v=1553798047"
     ]
 }
