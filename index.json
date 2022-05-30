@@ -13,6 +13,13 @@
             "id": 1,
             "path": "./1/",
             "mainFile": "./1/index.json"
+        },
+        { 
+            "name": "Poznávačka obratlovci",
+            "description": "Lukyho poznávačka na obratlovce, rok 2021/2022",
+            "id": 2,
+            "path": "./2/",
+            "mainFile": "./2/index.json"
         }
     ]
 }
