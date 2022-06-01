@@ -1,26 +1,17 @@
 {
-    "name": "kuňka žlutobřichá",
+    "name": "káně lesní",
     "otherValidNames": [
-        "kunka zlutobricha"
+        "kane lesni"
     ],
-    "type": "Obojživelníci",
+    "type": "Ptáci",
     "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/d/d0/BombinaVariegataJuv.jpg",
-        "https://www.fotoaparat.cz/storage/pm/10/06/13/716087_13f41.jpg",
-        "https://www.zahrada-magazin.cz/wp-content/uploads/2016/04/ku%C5%88ka-%C5%BElutob%C5%99ich%C3%A1.jpg",
-        "https://herpetology.cz/wp-content/uploads/2019/02/p8012182-768x1024.jpg",
-        "https://edu.ceskatelevize.cz/storage/video/1200/11854-zive-srdce-evropy-kunka-zlutobricha.jpg",
-        "https://www.biolib.cz/IMG/GAL/BIG/405876.jpg",
-        "https://www.zahrada-magazin.cz/wp-content/uploads/2016/04/ku%C5%88ka-%C5%BElutob%C5%99ich%C3%A1-4.jpg",
-        "https://www.biolib.cz/IMG/GAL/BIG/378208.jpg",
-        "https://www.zahrada-magazin.cz/wp-content/uploads/2016/04/ku%C5%88ka-%C5%BElutob%C5%99ich%C3%A1-3.jpg",
-        "https://www.biolib.cz/IMG/GAL/BIG/30601.jpg",
-        "https://www.dhphoto.cz/photos/kunka-zlutobricha-bombina-variegata-3744.jpg",
-        "https://temata.rozhlas.cz/sites/default/files/styles/facebook/public/images/02303337.jpeg?itok\\u003dgEzNkCNU",
-        "https://www.olkraj.cz/data/clanek/6301/foto/dsc-6714-fj.jpg",
-        "https://www.biolib.cz/IMG/GAL/BIG/194426.jpg",
-        "https://cdn.megapixel.cz/gallery/w1380h900/2/333382.jpg?v\\u003d1498860829",
-        "https://1gr.cz/fotky/idnes/19/013/r7/JAG78d5dc_Image.jpg",
-        "https://www.i60.cz/images/DSC02807.JPG"
+        "https://upload.wikimedia.org/wikipedia/commons/f/fa/Buteo_buteo_-Scotland-8.jpg",
+        "https://cdn.megapixel.cz/gallery/w1380h900/8/483048.jpg?v\\u003d1620654164",
+        "https://www.svetmyslivosti.cz/media/k2/items/cache/c21475a58488c2d65cf7e5e9c57b78a1_XL.jpg?t\\u003d-62169984000",
+        "https://www.kdelovit.cz/files/birds/9/images/source/544a4487a91f4.jpg",
+        "https://g.denik.cz/52/92/ptakem-roku-2021-je-kane-lesni-15.jpg",
+        "https://liberecka.drbna.cz/files/drbna/images/page/2021/02/04/size4-16124614230729-103-cesko-ma-sveho-ptaka-roku-2021-je-jim-kane-lesni.jpg",
+        "https://i.pinimg.com/736x/66/14/fe/6614fe0fde568be69dc50ea3142a8366.jpg",
+        "https://www.kdelovit.cz/files/birds/9/images/source/544a448580a30.jpg"
     ]
 }

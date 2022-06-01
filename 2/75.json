@@ -1,30 +1,22 @@
 {
-    "name": "los lesní",
+    "name": "výr velký",
     "otherValidNames": [
-        "los lesni"
+        "vyr velky"
     ],
-    "type": "Savci",
+    "type": "Ptáci",
     "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/c/c6/Moose_in_Gros_Ventre_Campgroud_4.jpg",
-        "https://www.ceska-krajina.cz/wp-content/uploads/2016/03/ceska-krajina-los-losi-losum-losu-kopytnici-louka-divoka-priroda-leto-kvetiny-voda-01.jpg",
-        "https://www.ceska-krajina.cz/wp-content/uploads/2016/03/ceska-krajina-galerie-los-07-samec-les-stromy-Patrick-Burgler-Flicker-com-CreativeCommons-org.jpg",
-        "https://www.ceska-krajina.cz/wp-content/uploads/2016/03/ceska-krajina-los-losi-losum-losu-kopytnici-les-divoka-priroda-snih-zima-02.jpg",
-        "https://www.stoplusjednicka.cz/sites/default/files/styles/full/public/obrazky/los_1.jpg?itok\\u003dHrbJPFAd",
-        "https://plus.rozhlas.cz/sites/default/files/styles/cro_16x9_tablet/public/uploader/moose-1041035_1920_190726-150137_sle.jpg?itok\\u003ds_oNQt8W",
-        "https://www.ceska-krajina.cz/wp-content/uploads/2016/03/ceska-krajina-galerie-los-01-zelen-louka-Stian-Olsen-Flicker-com-CreativeCommons-org.jpg",
-        "https://www.ceska-krajina.cz/wp-content/uploads/2016/03/ceska-krajina-galerie-los-06-mlady-samec-zelen-louka-Jiri-Bohdal-NaturFoto-cz.jpg",
-        "https://ldf.mendelu.cz/myslivost/mammalia/artiodactyla/ruminantia/cervidae/alces_alces/los_evropsky.jpg",
-        "https://www.stoplusjednicka.cz/sites/default/files/styles/x940-620/public/obrazky/ico_38-99.jpg?itok\\u003dMTDDR1qh",
-        "https://www.ceska-krajina.cz/wp-content/uploads/2016/03/ceska-krajina-los-losi-losum-losu-kopytnici-les-divoka-priroda-leto-kvetiny-stromy-03.jpg",
-        "https://pixnio.com/free-images/2018/06/28/2018-06-28-07-00-50-1200x777.jpg",
-        "https://media.istockphoto.com/photos/king-of-the-forestthe-elk-on-meadow-picture-id1169814247",
-        "https://aa.ecn.cz/img_upload/e6ffb6c50bc1424ab10ecf09e063cd63/35590775063_49ef782f11_o.jpg",
-        "https://www.zoopraha.cz/images/lexikon/los_evropsk%C3%BD_2_-_archiv_Zoo_Praha.jpg",
-        "https://media.istockphoto.com/photos/moose-or-european-elk-alces-alces-young-calf-eating-leaves-in-forest-picture-id646985674",
-        "https://www.npsumava.cz/wp-content/uploads/2021/02/los-evropsky-fotopast2.jpg",
-        "https://pixnio.com/free-images/fauna-animals/deers/moose-and-elk/male-moos-stands-in-water.jpg",
-        "https://pixnio.com/free-images/fauna-animals/deers/moose-and-elk/moose-in-forest.jpg",
-        "https://cestovatel.cz/clanky/po-svedske-diagonale-helsingborg-stockholm/setk-n-v-lese-1-jpg/",
-        "https://media.istockphoto.com/photos/elk-swam-across-the-river-and-escapes-in-the-wood-picture-id692503684"
+        "https://www.zooliberec.cz/wp-content/uploads/2021/01/vyr_1.jpg",
+        "https://www.zootabor.eu/wp-content/uploads/2015/07/vyr-velky-bubo-bubo.jpg",
+        "https://www.myslivost.cz/getattachment/de6e635d-fd59-4945-8c1d-c7180783b121/.aspx?maxsidesize\\u003d300\\u0026width\\u003d228\\u0026height\\u003d300",
+        "https://api.zoohluboka.cz/storage/1920x1920_1587513766.5724_4489-vyr_velky_3.jpg",
+        "https://strednicechy.ochranaprirody.cz/res/archive/335/043228.jpg?seek\\u003d1484749541",
+        "https://d15-a.sdn.cz/d_15/c_img_QL_n/KyFDpg.jpeg?fl\\u003dcro",
+        "https://tvorove.cz/wp-content/uploads/2021/06/Vyr_velky_nase_nejvetsi_sova_1--scaled-e1623767052119-1000x667.jpg",
+        "https://www.npcs.cz/sites/default/files/inline-images/vyr_velky-1.jpg",
+        "https://cdn.megapixel.cz/gallery/w1380h900/8/187598.jpg?v\\u003d1449075627",
+        "https://liberecka.drbna.cz/files/drbna/images/page/2018/02/23/1000x1000-1519380070-vyr-velky.jpg",
+        "https://www.dhphoto.cz/photos/vyr-velky-bubo-bubo-794.jpg",
+        "https://cdn.aukro.cz/images/sk1627919852950/vyr-velky-104910357.jpeg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7e/V%C3%BDr_velk%C3%BD%2C_zookoutek_B%C5%99e%C5%BEansk%C3%A9_%C3%BAdol%C3%AD.jpg"
     ]
 }

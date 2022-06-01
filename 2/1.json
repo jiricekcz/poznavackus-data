@@ -1,33 +1,19 @@
 {
-    "name": "aligátor (severoamerický)",
+    "name": "karas obecný",
     "otherValidNames": [
-        "aligátor severoamerický",
-        "aligator severoamericky",
-        "aligátor",
-        "aligator"
+        "karas obecny"
     ],
-    "type": "Plazi",
+    "type": "Ryby",
     "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/b/be/Alligator_in_the_Okefenokee.jpg",
-        "https://www.zenysro.cz/images/blog/38164/main.jpg",
-        "https://www.zoozlin.eu/media/photos/animal/item/gallery/images-1531/9b66876e1bbf6c8b0a52ff349b998650-t1.jpeg",
-        "https://www.stoplusjednicka.cz/sites/default/files/styles/full/public/obrazky/2019/01/14_01_alig.jpg?itok\\u003dmJ-Wx8UG",
-        "https://nova-ott-images-tn.ssl.cdn.cra.cz/r1200x/2bae2dcc-472b-4d9a-9a4a-65929d6d41cc",
-        "https://cdn.megapixel.cz/gallery/w1380h900/7/539797.jpg?v\\u003d1620167028",
-        "https://www.ifauna.cz/upload/plemena/photos/images/202203/1106-aligator-americky_16468513477547.jpg?ver\\u003d1646851350",
-        "https://upload.wikimedia.org/wikipedia/commons/f/f9/Crocodilia_collage.jpg",
-        "https://www.zoozlin.eu/media/photos/animal/item/gallery/images-1531/9bd571986170193b03934a2599d29d0a-t1.jpeg",
-        "https://www.stoplusjednicka.cz/sites/default/files/obrazky/kroko_4.jpg",
-        "https://www.bembo.cz/data/images/katalog/produkty/v2/6606607/15144752-full.jpg",
-        "https://www.stoplusjednicka.cz/sites/default/files/obrazky/kroko_6.jpg",
-        "https://www.stoplusjednicka.cz/sites/default/files/obrazky/kroko_1.jpg",
-        "https://www.zooplzen.cz/Files/FckGallery/%C5%BEelvy2.zip/1158%20pilzno%20t%C5%AFzn%C3%A9%20(2011).jpg",
-        "https://www.plysovnik.cz/files/goods/4919-aligator-severoamericky-krokodyl/plysovy-krokodyl-aligator-detail.jpg",
-        "https://sever.rozhlas.cz/sites/default/files/images/03135539.jpeg",
-        "https://www.stoplusjednicka.cz/sites/default/files/styles/full/public/obrazky/kroko_9.jpg?itok\\u003d5Ds54FZ-",
-        "https://www.cojeco.cz/images/descript/f5f17f350c02efc52630fc848061bb10.jpg",
-        "https://www.zooplzen.cz/Files/FckGallery/%C5%BEelvy2.zip/Kajman%20trpaslici%2003.jpg",
-        "https://budejovice.rozhlas.cz/sites/default/files/images/2376d2f8f78ea9ae8368bc7bcb6ca445.jpg",
-        "https://nova-ott-images-tn.ssl.cdn.cra.cz/r1200x/3e2773fe-f9d3-474a-ab5e-6df324705dc9"
+        "https://irybarstvi.cz/wp-content/uploads/2020/11/25_karas_obecny-page-001-e1605544741300-1024x557.jpg",
+        "https://www.zoopraha.cz/images/Aktualne/Pohledem_reditele/02.jpg",
+        "https://www.najdirevir.cz/media/large/upload/fish/6225c83c5cbae104574225.jpg",
+        "https://www.zachytame.cz/data/images-xl/1556-karas-obecny.jpg",
+        "https://karasobecny.cz/wp-content/uploads/2019/01/karas-obecn%C3%BD-for-fisching-2019.jpg",
+        "https://irybarstvi.cz/wp-content/uploads/2021/07/2-karas-obecny.jpg",
+        "https://irybarstvi.cz/wp-content/uploads/2020/11/26_karas_stribrity-page-001-e1605544752393.jpg",
+        "https://region.rozhlas.cz/sites/default/files/images/a829112b941209edb027e0d4f8630b01.jpg",
+        "https://www.mrk.cz/Data/Galerie/52203_f1.jpg",
+        "https://www.ohoubach.cz/obrazky/galerie/201603/50279_1.jpg"
     ]
 }
