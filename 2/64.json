@@ -1,23 +1,21 @@
 {
-    "name": "křepelka obecná",
+    "name": "sokol stěhovavý",
     "otherValidNames": [
-        "krepelka obecna"
+        "sokol stehovavy"
     ],
     "type": "Ptáci",
     "images": [
-        "https://images.hyperinzerce.cz/inzeraty/83692740533198491872%2Foriginal%2F15703919-prodam-samicky-krepelky-japonske-nosne-001.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/d/db/Japanese_Quail.jpg",
-        "https://g.denik.cz/122/d9/krepelka-ziva-759770443_irecept-full.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/f/f3/Coturnix_coturnix%2C_Fraunberg%2C_Bayern%2C_Deutschland_1.jpg",
-        "https://www.mujrozhlas.cz/sites/default/files/styles/facebook/public/rapi/51da5060115ae25df87bc7101bea93ee.jpg?h\\u003da807c8f6\\u0026itok\\u003dQL-Gze3L",
-        "https://temata.rozhlas.cz/sites/default/files/styles/facebook/public/images/02274161.jpeg?itok\\u003dx92IESDs",
-        "https://images.hyperinzerce.cz/inzeraty/9648850435738293181%2Foriginal%2F13373747-krepelka-cinska-holoubek-diamantovy-001.jpg",
-        "https://www.nasiptaci.info/wp-content/gallery/28_8_21/nasiptaci.info_28_08_2021_807.jpg",
-        "https://i.ytimg.com/vi/Uzve8c7TFP4/maxresdefault.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/7/7d/Coturnix_coturnix_(Lmbuga).jpg",
-        "https://www.skrblik.cz/wp-content/uploads/jak-chovat-krepelky.jpg",
-        "https://www.nasiptaci.info/wp-content/gallery/jerabek_lesni/nasiptaci.info_29_09_2021_50.jpg",
-        "https://media.cheggcdn.com/media/b86/b8604e25-114c-4252-a401-6ad52692b2d4/android_image__11479905944830.jpg",
-        "https://cz3.staticac.cz/foto/vyrobky/4844500/4844454.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Accipiter_gentilis_-injured_Goshawk.jpg/1200px-Accipiter_gentilis_-injured_Goshawk.jpg",
+        "https://www.zayferus.cz/images/speasyimagegallery/albums/39/images/sokol-stehovavy-samec-u-os.jpg",
+        "https://www.zayferus.cz/images/speasyimagegallery/albums/39/images/sokol-sthovav-detail-lednice-07.jpg",
+        "https://www.irozhlas.cz/sites/default/files/styles/zpravy_fotogalerie_large/public/uploader/peregrine-falcon-361_210513-082139_pj.jpg?itok\\u003dhRC9sW8y",
+        "https://www.slshranice.cz/wp-content/uploads/2021/10/Sokol-stehovavy-zeme-listopd-2020-1.jpg",
+        "https://aa.ecn.cz/img_upload/e6ffb6c50bc1424ab10ecf09e063cd63/sokolstehovavy.jpg",
+        "https://www.zayferus.cz/images/speasyimagegallery/albums/39/images/sokol-sthovav-zima-vy-n-vb.jpg",
+        "https://zoopark.cz/uploads-files/2019/05/20190731_DSC0666-1200x675.jpg",
+        "https://www.dumprirody.cz/res/archive/035/004281.jpg?seek\\u003d1475139817",
+        "https://www.zayferus.cz/images/speasyimagegallery/albums/39/images/sokol-sthovav-mor-kra-mech.jpg",
+        "https://www.zayferus.cz/images/speasyimagegallery/albums/39/images/sokol-sthovav-vrana-na-posedu-2020.jpg",
+        "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/205956021/1800"
     ]
 }

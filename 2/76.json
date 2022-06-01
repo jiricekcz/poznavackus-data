@@ -1,19 +1,19 @@
 {
-    "name": "losos obecný",
+    "name": "sýček obecný",
     "otherValidNames": [
-        "losos obecny"
+        "sycek obecny"
     ],
-    "type": "Ryby",
+    "type": "Ptáci",
     "images": [
-        "https://irybarstvi.cz/wp-content/uploads/2020/11/30_losos_obecny-page-001-e1605544810788.jpg",
-        "https://cdn.myshoptet.com/usr/www.cerstveryby.cz/user/shop/big/1964_salmo-salar--atlantic-salmon-on-the-white-background.jpg?61a51a80",
-        "https://www.finefish.cz/files/_cache/1200x800-0-1-0/product/product_4/64a65a096c56c147d3e858744fd62819.jpeg",
-        "https://www.najdirevir.cz/media/large/upload/fish/6225c8c81ff9e980303496.jpg",
-        "https://cdn.myshoptet.com/usr/www.dejsirybu.cz/user/shop/big/21860_losos-obecny-cely--cerstvy-chlazeny-na-ledu.jpg?5fe13057",
-        "https://sever.rozhlas.cz/sites/default/files/styles/cro_16x9_tablet/public/images/02253994.jpeg?itok\\u003dAigBs7gR",
-        "https://cdn.myshoptet.com/usr/www.rybarnypraha.cz/user/shop/big/87_losos-obecny.jpg?5f88a7e1",
-        "https://montessorihracky.cz/23384-thickbox_default/losos.jpg",
-        "https://www.nzm.cz/file/f9a4569b97cf22cd109a1ef60ce5b7c8/17223/losos%20-%20tul%C3%A1k%2C%20s%C3%A1drov%C3%BD%20odlitek%20zhotoven%C3%BD%20dr.%20A.%20Fri%C4%8Dem.jpg",
-        "https://st.depositphotos.com/1874629/1816/i/950/depositphotos_18169211-stock-photo-scottish-atlantic-salmon.jpg"
+        "https://www.zoopraha.cz/images/lexikon/sycek_obecny.jpg",
+        "https://www.zoobrno.cz/img/old/cs/ochrana-prirody/ochrana-fauny-v-cr/sycek-obecny/sycek-obecny/sycek-velikost-01.jpg",
+        "https://www.myslivost.cz/getattachment/c12c8b55-9e30-401d-b2c9-a4d26a697b66/.aspx?maxsidesize\\u003d300\\u0026width\\u003d228\\u0026height\\u003d300",
+        "https://www.silvarium.cz/media/k2/items/cache/37fa4092f14e2c21a8e3ee6da2b41ef9_XL.jpg?t\\u003d1517911441",
+        "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/204978111/1800",
+        "https://region.rozhlas.cz/sites/default/files/images/92260b4e0ed5e586b685dd3e5f8c4818.JPG",
+        "https://www.zayferus.cz/images/speasyimagegallery/albums/47/images/sycek-obecny-vys-18-dub.jpg",
+        "https://cdn.megapixel.cz/gallery/w1380h900/6/337116.jpg?v\\u003d1649077142",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2d/5Zoologick%C3%A1_podsb%C3%ADrka._S%C3%BD%C4%8Dek_obecn%C3%BD_%28Athene_noctua%29%2C_Lokalita_%C4%8Cechy_bez_bli%C5%BE%C5%A1%C3%AD_specifikace_%2830._l%C3%A9ta_20._st.%29.jpg",
+        "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/204953891/1800"
     ]
 }

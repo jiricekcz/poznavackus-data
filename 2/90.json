@@ -1,39 +1,19 @@
 {
-    "name": "osel domácí",
+    "name": "drozd kvíčala",
     "otherValidNames": [
-        "osel domaci"
+        "drozd kvicala"
     ],
-    "type": "Savci",
+    "type": "Ptáci",
     "images": [
-        "https://www.ifauna.cz/upload/clanky/photos/images/201809/6204-osel-domaci-zapomenuty-pruvodce-cloveka.jpg?ver\\u003d1646145819",
-        "https://api.zoohluboka.cz/storage/1920x1920_1587506043.8341_7642-osel_domaci_-_Jerhotova_041.jpg",
-        "https://www.zoo-olomouc.cz/sites/default/files/images/animalcard/dsc_5244.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/6/65/Equus_africanus_somaliensis_2_%28cropped%29.jpg",
-        "https://www.skrblik.cz/wp-content/uploads/jak-chovat-osla.jpg",
-        "https://www.mazlickoviny.cz/wp-content/uploads/2019/04/osel-hlavn%C3%AD.jpg",
-        "https://api.zoohluboka.cz/storage/1920x1920_1587506042.9928_9186-osel_domaci_4.jpg",
-        "https://zoopark.cz/uploads-files/2021/01/20191007_DSC4433.jpg",
-        "https://api.zoohluboka.cz/storage/1920x1920_1587506042.2758_5045-osel_domaci_2.jpg",
-        "https://www.biolib.cz/IMG/GAL/199446.jpg",
-        "https://region.rozhlas.cz/sites/default/files/images/e43489c7e7ea9a84a2a697c31796bc4b.jpg",
-        "https://www.zoo-olomouc.cz/sites/default/files/images/animalcard/dsc_6971.jpg",
-        "https://mandala-montessori.eu/5079-tm_large_default/osel-domaci.jpg",
-        "https://d6scj24zvfbbo.cloudfront.net/370f4cfa68898b1266dc162d8649185f/200000174-6495f65840/1L9A1095.jpg?ph\\u003d9fbbd1f21c",
-        "https://www.zoozlin.eu/media/photos/article/item/gallery/images-868/2da2b0e6ac021d50401ce95a2a0f0913-t1.jpeg",
-        "https://www.zoo-olomouc.cz/sites/default/files/images/animalcard/dsc_5233.jpg",
-        "https://api.zoohluboka.cz/storage/1920x1920_1587506042.3323_4075-osel_domaci_1.jpg",
-        "https://zoopark.cz/uploads-files/2020/04/20200404_DSC3405.jpg",
-        "https://www.zoo-vyskov.cz/uploads/Nove_prirustky/oslici.jpg?1539087058322",
-        "https://www.biolib.cz/IMG/GAL/39332.jpg",
-        "https://api.zoohluboka.cz/storage/1920x1920_1587506042.8231_2708-osel_domaci_3.jpg",
-        "https://api.zoohluboka.cz/storage/1920x1920_1587506043.6392_9269-osel_domaci_-_Jerhotova_071.jpg",
-        "https://vltava.rozhlas.cz/sites/default/files/images/03666508.jpeg",
-        "https://www.cavalluna.com/fileadmin/Entdecken/Pferdewissen/Pferderassen/Esel/Esel_-_ohne_Mensch.jpg",
-        "https://zoopark.cz/uploads-files/2021/01/20201208_DSC7858-1200x675.jpg",
-        "https://www.petrpechac.cz/photos/osel-domaci-zoo-brno-6741.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/b/b7/Equus_asinus_Kadzid%C5%82owo_002.jpg",
-        "https://www.petrpechac.cz/photos/osel-domaci-zoo-brno-6742.jpg",
-        "https://i.ytimg.com/vi/WCBhqlOyu1M/maxresdefault.jpg",
-        "https://www.zoozlin.eu/media/photos/article/item/gallery/images-868/cf1e8def06553c3426f146b30a3010a6-t1.jpeg"
+        "https://upload.wikimedia.org/wikipedia/commons/c/c1/Turdus_pilaris_EM1B9020_%2834450664312%29.jpg",
+        "https://www.fotoaparat.cz/imgs/p/21/04/28/lb9mkdrf-img-12349-1-1200x627x9.jpg",
+        "https://cdn.megapixel.cz/gallery/w1380h900/6/337946.jpg?v\\u003d1620165074",
+        "https://www.cojeco.cz/images/descript/c45682bc5b8ffbface22e9eaeeb78065.jpg",
+        "https://www.fotoaparat.cz/storage/pm/09/05/04/631347_78e43.jpg",
+        "https://www.akademie-svetla.cz/images/article/875/gallery/0001-329c4c165cebd94a5e48b9ad2c6c858a.JPG",
+        "https://www.fotoaparat.cz/storage/p/21/04/13/q8c6zx02-img-12367-1.jpg",
+        "https://cdn.megapixel.cz/gallery/w1380h900/9/542079.jpg?v\\u003d1616583835",
+        "https://www.biolib.cz/IMG/GAL/BIG/319723.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/Fieldfare_on_branch.jpg"
     ]
 }
